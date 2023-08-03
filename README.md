@@ -3,7 +3,9 @@ My personal website
 
 # EDUCATION
 PhD (2010) in Forestry, Michigan State University
+
 MSc (2004) in Agroforestry, Kwame N'Krumah University of Science and Technology
+
 BSc (1991) in Forestry, University of Ouagadougou
 
 # EMPLOYMENT
